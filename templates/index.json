@@ -20,12 +20,12 @@
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Welcome to KS BootShop Theme",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.</p>",
-            "btn_primary_text": "Get theme",
+            "subtitle": "Brought to You By Prim's Attelier",
+            "title": "Introducing the perfect choice",
+            "description": "<h6><em><strong>Added to your cart, Delivered to your doorstep</strong></em></h6>",
+            "btn_primary_text": "Buy now",
             "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop",
-            "btn_secondary_text": "Learn more",
+            "btn_secondary_text": "Buy Later",
             "btn_secondary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop"
           }
         },
