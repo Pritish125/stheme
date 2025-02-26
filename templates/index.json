@@ -135,7 +135,7 @@
         "description": "<p>Add on optional description for this section</p>",
         "description_font_size": "fs-md",
         "btn_primary_text": "Primary button",
-        "btn_primary_url": "",
+        "btn_primary_url": "shopify://collections",
         "btn_primary_color": "btn-primary",
         "btn_secondary_text": "Secondary button",
         "btn_secondary_url": "",
@@ -533,18 +533,18 @@
         "item_B99dNi": {
           "type": "item",
           "settings": {
-            "title": "First Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
-            "author": "Author's Name",
+            "title": "Absolutely Amazing",
+            "description": "<p>\"Shopping at Prim's Attelier has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
+            "author": "Yuri Jane",
             "author_subtitle": "Verified Customer"
           }
         },
         "item_VPnR9Q": {
           "type": "item",
           "settings": {
-            "title": "Second Testimonial",
-            "description": "<p>\"Shopping at [Store Name] has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
-            "author": "Author's Name",
+            "title": "Can't Believe!",
+            "description": "<p>\"Shopping at Prim's Attelier has been an absolute delight! The carefully curated selection of products is a testament to the store's commitment to quality. From trendy fashion pieces to unique home decor items, every product exudes style and craftsmanship.\"</p>",
+            "author": "Jack Goodall",
             "author_subtitle": "Verified Customer"
           }
         },
@@ -646,7 +646,7 @@
         "container_max_width": "",
         "header_title": "Latest Posts",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section</p>",
+        "header_description": "<p>Additional Details of our store</p>",
         "header_description_font_size": "fs-md",
         "slider_speed": 300,
         "slider_navigation": true,
