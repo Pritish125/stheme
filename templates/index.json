@@ -15,6 +15,8 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify://shop_images/content-pixie-ZB4eQcNqVUs-unsplash.jpg",
+            "img_desktop": "shopify://shop_images/content-pixie-ZB4eQcNqVUs-unsplash.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
@@ -30,15 +32,17 @@
         "slide_TddqxQ": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify://shop_images/521bab4c6c325632bf99105ddff8a07a.jpg",
+            "img_desktop": "shopify://shop_images/521bab4c6c325632bf99105ddff8a07a.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Simple to Use, Easy to Customize",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.</p>",
-            "btn_primary_text": "Primary button",
+            "subtitle": "For Yours Truly",
+            "title": "Simple to Use, Easy to Flaunt",
+            "description": "<h6><em><strong>Look Chic on everyday basis</strong></em></h6>",
+            "btn_primary_text": "Buy Now",
             "btn_primary_url": "",
-            "btn_secondary_text": "Secondary button",
+            "btn_secondary_text": "Buy Later",
             "btn_secondary_url": ""
           }
         }
